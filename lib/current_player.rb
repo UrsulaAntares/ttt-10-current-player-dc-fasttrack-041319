@@ -12,7 +12,7 @@ end
   
 def current_player(board)
   turns_taken = turn_count(board)
-  if turns_taken 
+  if turns_taken %
     
   else
 end
