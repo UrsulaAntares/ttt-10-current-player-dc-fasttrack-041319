@@ -26,4 +26,4 @@ end
 player=current_player(board)
 
 puts player
-return board
+
