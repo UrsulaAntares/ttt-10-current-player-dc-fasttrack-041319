@@ -12,5 +12,8 @@ end
   
 def current_player(board)
   turns_taken = turn_count(board)
-  Ifels 
+  if turns_taken 
+    
+  else
+end
 end
